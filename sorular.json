@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Türkiye'nin başkenti neresidir?",
+    "options": [
+      "A) İstanbul",
+      "B) Ankara",
+      "C) İzmir",
+      "D) Bursa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Atatürk hangi yıl doğmuştur?",
+    "options": [
+      "A) 1881",
+      "B) 1871",
+      "C) 1891",
+      "D) 1901"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": [
+      "A) Fırat",
+      "B) Dicle",
+      "C) Kızılırmak",
+      "D) Sakarya"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Hangisi bir element değildir?",
+    "options": [
+      "A) Altın",
+      "B) Su",
+      "C) Demir",
+      "D) Gümüş"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ay'da yürüyen ilk insan kimdir?",
+    "options": [
+      "A) Neil Armstrong",
+      "B) Yuri Gagarin",
+      "C) Edwin Aldrin",
+      "D) Michael Collins"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dünyanın en yüksek dağı nedir?",
+    "options": [
+      "A) K2",
+      "B) Everest",
+      "C) Elbruz",
+      "D) Ararat"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "İstanbul'u fetheden padişah kimdir?",
+    "options": [
+      "A) Yavuz Sultan Selim",
+      "B) Fatih Sultan Mehmet",
+      "C) Kanuni",
+      "D) Orhan Gazi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Hangisi bir programlama dili değildir?",
+    "options": [
+      "A) Python",
+      "B) Java",
+      "C) HTML",
+      "D) Windows"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Hangi gezegen Güneş'e en yakındır?",
+    "options": [
+      "A) Venüs",
+      "B) Mars",
+      "C) Merkür",
+      "D) Jüpiter"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Hangi hayvan memeli değildir?",
+    "options": [
+      "A) Yunus",
+      "B) Köpekbalığı",
+      "C) Yarasa",
+      "D) Fok"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Türkiye kaç coğrafi bölgeden oluşur?",
+    "options": [
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) 8"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "DNA'nın açılımı nedir?",
+    "options": [
+      "A) Deoksiribo Nükleik Asit",
+      "B) Dinamik Nükleik Asit",
+      "C) Düşey Nükleik Analiz",
+      "D) Direkt Nükleik Asit"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hangisi asal sayıdır?",
+    "options": [
+      "A) 9",
+      "B) 11",
+      "C) 15",
+      "D) 21"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "İzmir hangi bölgede yer alır?",
+    "options": [
+      "A) Karadeniz",
+      "B) Akdeniz",
+      "C) Ege",
+      "D) Marmara"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Hangisi bir tarayıcı değildir?",
+    "options": [
+      "A) Chrome",
+      "B) Firefox",
+      "C) Safari",
+      "D) Linux"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "En kalabalık kıta hangisidir?",
+    "options": [
+      "A) Afrika",
+      "B) Asya",
+      "C) Avrupa",
+      "D) Amerika"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Yerçekimi kuvvetini kim keşfetti?",
+    "options": [
+      "A) Galileo",
+      "B) Newton",
+      "C) Einstein",
+      "D) Tesla"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Hangi renk üç ana renkten biridir?",
+    "options": [
+      "A) Yeşil",
+      "B) Mor",
+      "C) Kırmızı",
+      "D) Turuncu"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "En küçük asal sayı nedir?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 0"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Hangi il yüzölçümü olarak en büyüktür?",
+    "options": [
+      "A) Konya",
+      "B) Ankara",
+      "C) Erzurum",
+      "D) Sivas"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Osmanlı Devleti kaç yılında yıkıldı?",
+    "options": [
+      "A) 1923",
+      "B) 1918",
+      "C) 1920",
+      "D) 1938"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "İstanbul'un Fethi?:",
+    "options": [
+      "A) 1553",
+      "B) 1435",
+      "C) 1453",
+      "D) 1923"
+    ],
+    "correct": 3
+  }
+]
